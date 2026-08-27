@@ -11,6 +11,6 @@ I watched BroCodes pandas 1 hour tutorial and the given tutorials to complete th
 
 Task2:
 https://www.tinkercad.com/things/dRzwG9JC7Xf-2025aaps0257hnoel?sharecode=Sc7HumkIYZLKbBV8ZguAy78mnc2o9YyZeHtIHVwVtYA
-tba
-
+The main issue i had doing this task was making sure the triggers for storm and charybdis didnt overwrite each other while still taking 5 seconds to wreck the ship.
+Also the anchor initially did not stop all hazards. This was fixed by adding a seperate if statement for it
 <img width="945" height="592" alt="image" src="https://github.com/user-attachments/assets/5a672d3d-e02c-4452-a4dd-ca7818e426eb" />
