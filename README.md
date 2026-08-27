@@ -10,7 +10,7 @@ I watched BroCodes pandas 1 hour tutorial and the given tutorials to complete th
 
 
 Task2:
-
+https://www.tinkercad.com/things/dRzwG9JC7Xf-2025aaps0257hnoel?sharecode=Sc7HumkIYZLKbBV8ZguAy78mnc2o9YyZeHtIHVwVtYA
 tba
 
 <img width="945" height="592" alt="image" src="https://github.com/user-attachments/assets/5a672d3d-e02c-4452-a4dd-ca7818e426eb" />
